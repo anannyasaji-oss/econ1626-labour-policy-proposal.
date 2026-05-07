@@ -1,9 +1,9 @@
 # Strategic Response to AI-Driven Labour Market Transformation
 
 ## Project Overview
-This repository contains a formal policy brief developed for the Australian Department of Employment and Workplace Relations (DEWR). It provides an evidence-based analysis of how Artificial Intelligence is reconfiguring the domestic labour market and offers a suite of strategic recommendations to ensure sustainable productivity growth and workforce resilience.
+This repository holds an official regulatory report created for the Australian Department of Employment and Workplace Relations (DEWR). It offers a data-driven evaluation of the way Artificial Intelligence is reshaping the local job sector and presents a set of tactical suggestions to guarantee enduring efficiency gains and employee flexibility.
 
-The proposal applies the 'Prediction-Judgment' economic framework to evaluate how AI-driven automation and augmentation affect employment, wages, and industrial structures in the 2026 Australian context.
+The submission utilizes the 'Prediction-Judgment' financial model to assess the way AI-enabled mechanization and enhancement impact hiring, pay, and corporate frameworks within the 2026 Australian environment.
 
 ## Navigation Guide
 To navigate this repository and review the policy proposal, please refer to the following files:
