@@ -21,6 +21,6 @@ To navigate this repository and review the policy proposal, please refer to the 
 *   **Version Control:** The commit history reflects the iterative development of the policy analysis, following standard Git workflow practices.
 
 ## Author
-[Your Name]  
+[Anannya Saji]  
 Bachelor of Business  
 May 2026
