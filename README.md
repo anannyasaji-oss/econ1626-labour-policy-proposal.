@@ -1,26 +1,35 @@
-# Strategic Response to AI-Driven Labour Market Transformation
+# 🤖 Project: Australia's AI Labour Transition 2026
+> **Policy Client:** Deputy Secretary, Workforce and Skills (DEWR)  
+> **Status:** ![Status: Under Review](https://img.shields.io/badge/Status-Under_Review-blue?style=flat-square) 
+> **Version:** 1.0 (Digital Briefing)
 
-## Project Overview
-This repository holds an official regulatory report created for the Australian Department of Employment and Workplace Relations (DEWR). It offers a data-driven evaluation of the way Artificial Intelligence is reshaping the local job sector and presents a set of tactical suggestions to guarantee enduring efficiency gains and employee flexibility.
+---
 
-The submission utilizes the 'Prediction-Judgment' financial model to assess the way AI-enabled mechanization and enhancement impact hiring, pay, and corporate frameworks within the 2026 Australian environment.
+## 📍 Project Overview
+This repository serves as a **Strategic Intelligence Briefing**. It moves beyond traditional text reports to provide a dynamic analysis of how Artificial Intelligence is reconfiguring the Australian labour market. 
 
-## Navigation Guide
-To navigate this repository and review the policy proposal, please refer to the following files:
+By applying the **Prediction-Judgment Economic Model**, this project identifies where human workers have a comparative advantage and proposes a policy roadmap to harness AI-driven productivity without sacrificing workforce equity.
 
-*   **[proposal.md](proposal.md)**: The core document containing the 1,200-word policy brief. It is structured as follows:
-    *   Executive Summary
-    *   Problem Definition & Context
-    *   Analysis of Impacts (Employment, Tasks, Wages, and Equity)
-    *   Policy Options Evaluation
-    *   Recommendation & Implementation Roadmap
-*   **References**: All evidentiary sources are integrated into the footer of `proposal.md` following RMIT Harvard conventions.
+---
 
-## Technical Notes
-*   **Format:** This project is written in GitHub Flavored Markdown (GFM) for optimal readability and accessibility.
-*   **Version Control:** The commit history reflects the iterative development of the policy analysis, following standard Git workflow practices.
+## 🧭 Navigation Dashboard
+| Section | Description | Action |
+| :--- | :--- | :--- |
+| **🚀 Executive Summary** | The "Bottom Line Up Front" for decision makers. | [Read BLUF](proposal.md#executive-summary) |
+| **🔍 Economic Analysis** | Task-based impacts on wages and employment. | [View Analysis](proposal.md#1-problem-definition--context) |
+| **📊 Policy Matrix** | Evaluation of 3+ concrete strategic interventions. | [Compare Options](proposal.md#3-policy-options) |
+| **🛠️ Roadmap** | Actionable implementation plan for 2026-2028. | [See Roadmap](proposal.md#4-recommended-package) |
 
-## Author
-[Anannya Saji]  
-Bachelor of Business  
-May 2026
+---
+
+## ⚡ Key Policy Pillars
+*   **Augmentation over Replacement:** Prioritising human-in-the-loop systems.
+*   **SME Resilience:** Closing the 'Adoption Gap' for regional businesses.
+*   **Algorithmic Equity:** Ensuring transparency in AI-driven hiring processes.
+
+---
+
+## ✍️ Author
+**[Anannya Saji]**  
+*Bachelor of Business*  
+**RMIT University | May 2026**
