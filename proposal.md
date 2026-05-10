@@ -24,6 +24,28 @@ Evidence from **Indeed's 2026 Hiring Data** shows that while AI mentions in job 
 
 ---
 
+## 2. Analysis of Impacts
+The integration of AI into the Australian economy is not a uniform event; it is a structural reorganization affecting the very foundations of how we define "work."
+
+### 2.1 The Reconfiguration of Tasks and Industrial Structure
+Rather than total job displacement, we are seeing a "Task Migration." As AI handles predictive and routine cognitive workloads, industries are pivoting toward **Service-Oriented and High-Judgment models**. 
+
+In my analysis of the 2026 industrial landscape, the most significant shift is in the **Professional Services and Hospitality sectors**. For instance, while inventory and financial forecasting are now machine-led, the demand for "Human-in-the-Loop" roles—those focusing on customer experience, ethical curation, and complex negotiation—has surged (Learning People 2026). This represents a transition from a "Process Economy" to a **"Judgment Economy."**
+
+### 2.2 Wage Dynamics: The 'Judgment Premium' vs. 'The Hollowing'
+A clear **wage bifurcation** is emerging in the Australian market:
+*   **The Judgment Premium:** Workers who possess the "AI-literacy" to supervise and refine machine outputs are seeing a significant wage growth—averaging a 21% increase since 2024 (WTW 2026).
+*   **The Middle-Skill Squeeze:** Conversely, mid-level roles that traditionally served as "data processors" are seeing wage stagnation. This creates a "Broken Rung" on the career ladder, where the path from an entry-level graduate to a senior strategic leader is becoming harder to navigate without specialized micro-credentials.
+
+### 2.3 Distributional Equity and the Regional Divide
+The "AI Dividend" is currently concentrated in major metropolitan "Tech Corridors" like Melbourne and Sydney. This creates a double-edged risk for regional Australia:
+1.  **The Talent Drain:** Skilled workers are migrating to urban centers where AI-augmentation is more advanced.
+2.  **The Productivity Lag:** Regional SMEs often lack the capital and high-speed infrastructure to implement bespoke AI models, leaving them at a competitive disadvantage against urban-based multinationals (Oxford Economics 2026).
+
+### 2.4 Ethical & Social Dimensions
+Beyond economics, we must consider the "Black Box" risk in the labour market. The use of AI in recruitment and performance management can unintentionally bake in historical biases. If left unregulated, these systems could systematically disadvantage marginalized groups, creating a "feedback loop" of inequity that undermines the Australian value of a "fair go" (Senate Select Committee 2026).
+
+---
 ## References
 
 Acemoglu D and Restrepo P (2024) *Automation and new tasks: how technology displaces and reinstates labor*, IZA Institute of Labor Economics, doi:10.1086/705714.
@@ -31,5 +53,11 @@ Acemoglu D and Restrepo P (2024) *Automation and new tasks: how technology displ
 Agrawal AK, Gans JS and Goldfarb A (2025) 'Genius on demand: the value of transformative artificial intelligence', in Agrawal AK, Brynjolfsson E and Korinek A (eds) *The economics of transformative AI*, University of Chicago Press, Chicago, accessed 8 May 2026. [https://www.nber.org/books-and-chapters/economics-transformative-ai/genius-demand-value-transformative-artificial-intelligence](https://www.nber.org/books-and-chapters/economics-transformative-ai/genius-demand-value-transformative-artificial-intelligence)
 
 JSA (Jobs and Skills Australia) (2025) *International Labour Market Update - February 2026*, Jobs and Skills Australia, accessed 8 May 2026. [https://www.jobsandskills.gov.au/news/global-labour-markets-ease-while-ai-offers-productivity-potential](https://www.jobsandskills.gov.au/news/global-labour-markets-ease-while-ai-offers-productivity-potential)
+
+Learning People (2026) *The AI skill shift in Australia*, Learning People Australia, accessed 10 May 2026. [https://www.learningpeople.com/au/resources/career-guides/ai-impact-on-jobs/](https://www.learningpeople.com/au/resources/career-guides/ai-impact-on-jobs/)
+
+Oxford Economics (2026) *The global economics of AI*, Oxford Economics, accessed 10 May 2026. [https://www.oxfordeconomics.com/the-economics-of-ai/](https://www.oxfordeconomics.com/the-economics-of-ai/)
+
+Senate Select Committee on Adopting Artificial Intelligence (AI) (2026) *List of recommendations*, Parliament of Australia, accessed 10 May 2026. [https://www.aph.gov.au/Parliamentary_Business/Committees/House/Former_Committees/Employment_Education_and_Training/DigitalTransformation/Report/List_of_recommendations]
 
 WTW (2026) *HR in 2026: Leading the human-AI workforce revolution in Australia*, WTW Insights, accessed 8 May 2026. [https://www.wtwco.com/en-au/insights/2026/02/hr-in-2026-leading-the-human-ai-workforce-revolution-in-australia](https://www.wtwco.com/en-au/insights/2026/02/hr-in-2026-leading-the-human-ai-workforce-revolution-in-australia)
