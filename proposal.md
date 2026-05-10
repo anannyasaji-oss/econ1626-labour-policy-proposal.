@@ -24,26 +24,32 @@ Evidence from **Indeed's 2026 Hiring Data** shows that while AI mentions in job 
 
 ---
 
-## 2. Analysis of Impacts
-The integration of AI into the Australian economy is not a uniform event; it is a structural reorganization affecting the very foundations of how we define "work."
+## 2. Analysis of Impacts: The Great Reconfiguration
+The 2026 Australian labour market is not being "replaced"—it is being **rewired**. This section evaluates the four pillars of this transition through a strategic and ethical lens.
 
-### 2.1 The Reconfiguration of Tasks and Industrial Structure
-Rather than total job displacement, we are seeing a "Task Migration." As AI handles predictive and routine cognitive workloads, industries are pivoting toward **Service-Oriented and High-Judgment models**. 
+### 2.1 Task Migration & Industrial Structure
+> **The Pivot:** From "Process-Driven" to "Judgment-Led" Industries.
 
-In my analysis of the 2026 industrial landscape, the most significant shift is in the **Professional Services and Hospitality sectors**. For instance, while inventory and financial forecasting are now machine-led, the demand for "Human-in-the-Loop" roles—those focusing on customer experience, ethical curation, and complex negotiation—has surged (Learning People 2026). This represents a transition from a "Process Economy" to a **"Judgment Economy."**
+We are seeing a massive shift in how industries are built. AI is now the primary engine for **Prediction Tasks** (data synthesis, scheduling, and routine analysis). Consequently, sectors like Finance and Hospitality are re-tooling their workforce to focus on **Human-in-the-Loop** tasks. 
+*   **The 88% Shift:** Roles exposed to AI have seen their core skill requirements evolve nearly 90% faster than non-exposed roles (Learning People 2026).
+*   **The Outcome:** We are moving toward a "Judgment Economy," where the premium is placed on social intelligence and ethical oversight rather than sheer analytical volume.
 
-### 2.2 Wage Dynamics: The 'Judgment Premium' vs. 'The Hollowing'
-A clear **wage bifurcation** is emerging in the Australian market:
-*   **The Judgment Premium:** Workers who possess the "AI-literacy" to supervise and refine machine outputs are seeing a significant wage growth—averaging a 21% increase since 2024 (WTW 2026).
-*   **The Middle-Skill Squeeze:** Conversely, mid-level roles that traditionally served as "data processors" are seeing wage stagnation. This creates a "Broken Rung" on the career ladder, where the path from an entry-level graduate to a senior strategic leader is becoming harder to navigate without specialized micro-credentials.
+### 2.2 Wage Dynamics: The 'Judgment Premium'
+| Economic Trend | Impact on Australian Workers |
+| :--- | :--- |
+| **The Wage Surge** | Workers who "pilot" AI effectively are seeing a 21% income premium (WTW 2026). |
+| **The 'Broken Rung'** | Entry-level roles in professional services are being hollowed out, risking a loss of the "career ladder" for new graduates. |
 
-### 2.3 Distributional Equity and the Regional Divide
-The "AI Dividend" is currently concentrated in major metropolitan "Tech Corridors" like Melbourne and Sydney. This creates a double-edged risk for regional Australia:
-1.  **The Talent Drain:** Skilled workers are migrating to urban centers where AI-augmentation is more advanced.
-2.  **The Productivity Lag:** Regional SMEs often lack the capital and high-speed infrastructure to implement bespoke AI models, leaving them at a competitive disadvantage against urban-based multinationals (Oxford Economics 2026).
+### 2.3 The Equity Lens: The Regional 'Adoption Gap'
+⚠️ **Critical Risk:** A structural divide is opening between urban tech hubs and regional Australia. 
+*   **Concentrated Growth:** AI investment is currently clustered in Sydney and Melbourne.
+*   **Regional Lag:** SMEs in regional sectors face a "double barrier"—higher implementation costs and a lack of local technical literacy. Without intervention, this risks a permanent "productivity lag" for non-metropolitan businesses (Oxford Economics 2026).
 
 ### 2.4 Ethical & Social Dimensions
-Beyond economics, we must consider the "Black Box" risk in the labour market. The use of AI in recruitment and performance management can unintentionally bake in historical biases. If left unregulated, these systems could systematically disadvantage marginalized groups, creating a "feedback loop" of inequity that undermines the Australian value of a "fair go" (Senate Select Committee 2026).
+The "Fair Go" is at risk if AI deployment remains a "Black Box." 
+The **Senate Select Committee (2026)** has warned that unmonitored AI in recruitment and performance management can unintentionally institutionalize historical biases. To maintain labour market integrity, transparency is no longer optional—it is a strategic necessity.
+
+---
 
 ---
 ## References
