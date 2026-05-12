@@ -50,7 +50,35 @@ The "Fair Go" is at risk if AI deployment remains a "Black Box."
 The **Senate Select Committee (2026)** has warned that unmonitored AI in recruitment and performance management can unintentionally institutionalize historical biases. To maintain labour market integrity, transparency is no longer optional—it is a strategic necessity.
 
 ---
+## 3. Strategic Policy Options
+To navigate the "Great Reconfiguration," I have identified three concrete policy levers. These are evaluated based on their **Equity Impact**, **Feasibility**, and **Economic Multiplier**.
 
+### 📊 Evaluation Matrix
+
+| Strategic Option | Mechanism | Equity | Feasibility | Impact |
+| :--- | :--- | :---: | :---: | :---: |
+| **A. AI 'Lifelong Learning' Accounts** | Individualized grants for stackable micro-credentials. | ✅ High | ✅ High | 🚀 High |
+| **B. SME Digital Transition Grants** | Tax offsets for regional AI infrastructure. | ✅ High | ⚠️ Med | 📈 Med |
+| **C. Algorithmic Transparency Code** | Mandatory audits for AI in recruitment. | 🚀 High | ✅ High | ⚖️ Med |
+
+### 3.1 Option A: The AI 'Lifelong Learning' Account
+This policy empowers individual agency. By providing Commonwealth-backed subsidies for "Judgment-focused" training (e.g., ethical AI oversight, strategic prompt engineering), we allow workers to pivot *with* the technology rather than being displaced by it. This directly addresses the "Broken Rung" in career progression.
+
+### 3.2 Option C: The Algorithmic Transparency Code
+A low-cost, high-impact regulatory lever. By mandating that AI hiring tools be "auditable" for bias, we protect the Australian value of a **Fair Go**. This ensures that the digital transition doesn't accidentally bake-in systemic discrimination, maintaining labour market integrity.
+
+---
+
+## 4. Final Recommendation & Implementation
+**The "Augmentation-First" Package:**
+I recommend the simultaneous adoption of **Options A and C**. This dual-track approach provides both the *skills* to thrive and the *protections* to ensure a fair transition.
+
+### 🏁 Implementation Roadmap (2026-2027)
+*   **Phase 1 (Q4 2026):** Launch the "Judgment First" pilot program in partnership with RMIT and industry leaders.
+*   **Phase 2 (Q2 2027):** Legislate the Transparency Code to establish Australia as a global leader in ethical AI labour practices.
+*   **KPI:** A 20% reduction in the reported "AI-Skills Gap" by mid-2027.
+
+---
 ---
 ## References
 
