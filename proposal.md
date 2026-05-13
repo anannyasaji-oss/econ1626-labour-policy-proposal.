@@ -79,6 +79,13 @@ I recommend the simultaneous adoption of **Options A and C**. This dual-track ap
 *   **KPI:** A 20% reduction in the reported "AI-Skills Gap" by mid-2027.
 
 ---
+
+## 5. Risks & Mitigations
+*   **Risk:** Training programs becoming obsolete due to rapid AI evolution.
+*   **Mitigation:** Creating a "Live Feedback Loop" between the DEWR and tech industry leaders to update micro-credential standards every six months.
+*   **Risk:** Public distrust in AI hiring systems.
+*   **Mitigation:** The Option C Transparency Code acts as a trust-builder, ensuring workers understand how decisions are being made.
+
 ---
 ## References
 
